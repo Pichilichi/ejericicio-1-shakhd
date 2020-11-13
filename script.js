@@ -47,6 +47,4 @@ function onLoad(){
   console.log(people)
   filterUsers() // Llamada al metodo que filtra nuestro primer array
   console.log(peopleFiltered)
-  
-  
 }
